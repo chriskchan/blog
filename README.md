@@ -1,1 +1,3 @@
-<a href="chriskchan.github.io/blog"> chriskchan.github.io/blog </a>
+Check out my blog!
+
+chriskchan.gitbhub.io/blog
