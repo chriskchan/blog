@@ -1,1 +1,1 @@
-<h1> chriskchan.github.io/blog </h1>
+<a href="chriskchan.github.io/blog"> chriskchan.github.io/blog </a>
